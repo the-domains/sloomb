@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-06T15:44:18.400Z'
-dateModified: '2016-02-06T15:44:12.626Z'
+datePublished: '2016-02-06T16:13:29.920Z'
+dateModified: '2016-02-06T16:13:26.937Z'
 title: Sloomb is constantly innovating
 author: []
 authors: []
