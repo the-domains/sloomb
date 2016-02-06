@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[sloomb]]></title>
         <description><![CDATA[sloomb]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sloomb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 15:44:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 16:14:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sloomb/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sloomb is constantly innovating]]></title>
             <description><![CDATA[<article><h1>Sloomb is constantly innovating</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60f8a83536eaa18ff9949013c8f11d6a6759153a.jpg"></article>]]></description>
-            <link>undefinedsloomb-is-constantly-innovating/index.html</link>
+            <link>https://thegrid.ai/sloomb/sloomb-is-constantly-innovating/index.html</link>
             <guid isPermaLink="false">e69898c2-99da-43cb-b759-0e7b7f67bf5d</guid>
-            <pubDate>Sat, 06 Feb 2016 15:44:18 GMT</pubDate>
+            <pubDate>Sat, 06 Feb 2016 16:13:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
